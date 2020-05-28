@@ -2,7 +2,7 @@
 
 #### _CSS Exercise for Epicodus, 05.27.2020_
 
-#### By _**Peter Grimm, Kyle Hubbard**_
+#### By _**Peter Grimm, Kyle Hubbard, JohnNils Olson**_
 
 ## Description
 
